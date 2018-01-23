@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diamond_using_nested_loop", "diamond_using_nested_loop\diamond_using_nested_loop.csproj", "{09A09C09-72CD-4D34-8156-5BD79A846430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A09C09-72CD-4D34-8156-5BD79A846430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A09C09-72CD-4D34-8156-5BD79A846430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A09C09-72CD-4D34-8156-5BD79A846430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A09C09-72CD-4D34-8156-5BD79A846430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
